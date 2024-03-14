@@ -7,13 +7,6 @@ The starter repository contains the Pacman game around which you will be develop
 
 Pacman lives in a shiny blue world of twisting corridors and tasty round treats. Navigating this world efficiently will be Pacman's first step in mastering his domain.
 
-**Note:** A description of the files involved in this project can be found in Appendix [Files](#Files) at the end of this document. 
-
-**This assignment is to be completed in Python 3**
-
-## Getting Help
-We want these projects to be rewarding and instructional, not frustrating and demoralizing. But, we don't know when or how to help unless you ask. If you find yourself stuck on something, contact us via Slack or come by the office hours. If you can't make our office hours, let us know and we will be happy to schedule alternate times.
-
 # Agents
 The simplest agent in `searchAgents.py` is called the GoWestAgent, which always goes West (a trivial reflex agent). This agent can occasionally win:
 
