@@ -34,12 +34,6 @@ Also, all of the commands that appear in this project also appear in `commands.t
 
 This will run your functions through a series of test cases, similar to those used on gradescope. Questions 4b and 5 are not autograded, so the autograder will only give you a score out of 18, the remaining 7 points will be manually graded. 
 
-**Files to Edit and Submit:** You will fill in portions of `search.py` and `serchAgents.py`. You should submit these files with your code and comments, as well as your final report. Please do not change the other files in this distribution or submit any of our original files other than these files. You may want to review other files in the project, these have been shown in Appendix [Files](#Files).
-
-**Evaluation:** Your code will be autograded for technical correctness. Please **do not** change the names of any provided functions or classes within the code, or you will wreak havoc on the autograder. However, the correctness of your implementation -- not the autograder's judgements -- will be the final judge of your score. If necessary, we will review and grade assignments individually to ensure that you receive due credit for your work.
-
-**For Full Question Deatails** see assignment details on Canvas
-
 
 # File List
 ---
